@@ -7,10 +7,23 @@ My work spans across **AI-driven systems**, **full-stack development**, and **re
 
 ### 🛠 Tech Stack
 
+## 🚀 Tech Stack (via Silicon.Dev)
+
 ![C++](https://silicon.dev/api/badges/cplusplus)
 ![C](https://silicon.dev/api/badges/c)
 ![Python](https://silicon.dev/api/badges/python)
 ![JavaScript](https://silicon.dev/api/badges/javascript)
+![React](https://silicon.dev/api/badges/react)
+![Node.js](https://silicon.dev/api/badges/nodejs)
+![Express](https://silicon.dev/api/badges/express)
+![MongoDB](https://silicon.dev/api/badges/mongodb)
+![SQL](https://silicon.dev/api/badges/sql)
+![Git](https://silicon.dev/api/badges/git)
+![GitHub](https://silicon.dev/api/badges/github)
+![Postman](https://silicon.dev/api/badges/postman)
+![VS Code](https://silicon.dev/api/badges/vscode)
+![Vercel](https://silicon.dev/api/badges/vercel)
+![Render](https://silicon.dev/api/badges/render)
 
 
 
