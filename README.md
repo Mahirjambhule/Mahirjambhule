@@ -7,7 +7,10 @@ My work spans across **AI-driven systems**, **full-stack development**, and **re
 
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🚀 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vscode,vercel,render)](https://skillicons.dev)
+
 
 
 
