@@ -1,41 +1,16 @@
 # 👋 Hi, I'm Mahir Jambhule
 
-I’m a passionate **Software Developer (SDE)** and final-year Computer Engineering student who loves building intelligent, scalable, and user-focused applications.  
-My work spans across **AI-driven systems**, **full-stack development**, and **real-time communication platforms**, with a strong foundation in **Data Structures & Algorithms** and core CS fundamentals.
+I have worked on projects like an AI productivity app, an e-commerce platform, and a real-time chat application.  
+I also have a strong foundation in Data Structures & Algorithms, OS, DBMS, and Computer Networks.
 
 ---
-
-## 🚀 Tech Stack
 
 ## 🚀 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vscode,vercel,render)](https://skillicons.dev)
 
 
-
-
-
-## 🚀 What I Do
-
-### 🧠 Build AI-powered systems  
-I develop AI apps using **Groq Llama-3**, **HuggingFace models**, and modern backend architectures that deliver ultra-low latency and high accuracy.
-
-### 🌐 Full-Stack (MERN) Development  
-From interactive frontends to optimized backends, I create production-ready applications with:
-
-- **React.js**, **Redux Toolkit**, **Tailwind CSS**  
-- **Node.js**, **Express.js**, **REST APIs**, **JWT**  
-- **MongoDB**, **Mongoose**, **MongoDB Atlas**
-
-### ⚡ Real-Time Applications  
-I’ve built high-performance chat systems using **Socket.io** with sub-100ms latency.
-
-### 🛠 Tools & Dev Practices  
-Git, GitHub, Postman, VS Code, Vercel, Render  
-Strong understanding of **OS, DBMS, CN, OOP**, and software engineering principles.
-
 ---
-
 ## 🔥 Featured Projects
 
 ### 🧠 TaskMind AI — *AI Productivity Platform*  
@@ -73,21 +48,6 @@ Achieved **sub-100ms latency** using Socket.io with:
 - **Accenture Nordics Software Engineering – Forage**  
   Hands-on Agile, SSDLC, debugging, and industry workflows.
 
----
-
-## 🏆 Achievements
-
-- Solved **200+ DSA problems** on LeetCode, GFG, and Coding Ninjas  
-- Completed an **Advanced DSA Certification Course**  
-- Strong problem-solving rank in college coding competitions  
-
----
-
-## 💡 What I'm Currently Working On
-
-- Improving AI capabilities in MERN applications  
-- Preparing for top SDE internships & off-campus placements  
-- Expanding knowledge in system design & cloud engineering  
 
 ---
 
@@ -99,4 +59,3 @@ Achieved **sub-100ms latency** using Socket.io with:
 
 ---
 
-⭐ *Always open to collaborating on exciting projects or contributing to open-source!*  
