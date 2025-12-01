@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Mahir Jambhule
 
 I’m a passionate **Software Developer (SDE)** and final-year Computer Engineering student who loves building intelligent, scalable, and user-focused applications.  
