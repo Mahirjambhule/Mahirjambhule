@@ -7,21 +7,21 @@ My work spans across **AI-driven systems**, **full-stack development**, and **re
 
 ## 🚀 Tech Stack
 
-![C++](https://api.silicon.dev/badges/cplusplus)
-![C](https://api.silicon.dev/badges/c)
-![Python](https://api.silicon.dev/badges/python)
-![JavaScript](https://api.silicon.dev/badges/javascript)
-![React](https://api.silicon.dev/badges/react)
-![Node.js](https://api.silicon.dev/badges/nodejs)
-![Express](https://api.silicon.dev/badges/express)
-![MongoDB](https://api.silicon.dev/badges/mongodb)
-![SQL](https://api.silicon.dev/badges/sql)
-![Git](https://api.silicon.dev/badges/git)
-![GitHub](https://api.silicon.dev/badges/github)
-![Postman](https://api.silicon.dev/badges/postman)
-![VS Code](https://api.silicon.dev/badges/vscode)
-![Vercel](https://api.silicon.dev/badges/vercel)
-![Render](https://api.silicon.dev/badges/render)
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/cplusplus.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/c.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/python.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/javascript.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/react.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/nodejs.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/express.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/mongodb.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/sql.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/git.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/github.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/postman.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/vscode.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/vercel.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/render.svg" width="48"/>
 
 
 
