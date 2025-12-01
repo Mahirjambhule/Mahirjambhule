@@ -54,7 +54,6 @@ Achieved **sub-100ms latency** using Socket.io with:
 ## 📬 Connect with Me
 
 - LinkedIn: https://linkedin.com/in/mahir-jambhule-9b2887258  
-- GitHub: https://github.com/Mahirjambhule  
 - Email: **mahirjambhule92@gmail.com**
 
 ---
