@@ -7,21 +7,7 @@ My work spans across **AI-driven systems**, **full-stack development**, and **re
 
 ## 🚀 Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/cplusplus.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/c.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/python.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/javascript.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/react.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/nodejs.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/express.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/mongodb.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/sql.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/git.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/github.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/postman.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/vscode.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/vercel.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/siliconweb/icons@main/static/render.svg" width="48"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
