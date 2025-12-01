@@ -5,25 +5,24 @@ My work spans across **AI-driven systems**, **full-stack development**, and **re
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 Tech Stack
 
-## 🚀 Tech Stack (via Silicon.Dev)
+![C++](https://api.silicon.dev/badges/cplusplus)
+![C](https://api.silicon.dev/badges/c)
+![Python](https://api.silicon.dev/badges/python)
+![JavaScript](https://api.silicon.dev/badges/javascript)
+![React](https://api.silicon.dev/badges/react)
+![Node.js](https://api.silicon.dev/badges/nodejs)
+![Express](https://api.silicon.dev/badges/express)
+![MongoDB](https://api.silicon.dev/badges/mongodb)
+![SQL](https://api.silicon.dev/badges/sql)
+![Git](https://api.silicon.dev/badges/git)
+![GitHub](https://api.silicon.dev/badges/github)
+![Postman](https://api.silicon.dev/badges/postman)
+![VS Code](https://api.silicon.dev/badges/vscode)
+![Vercel](https://api.silicon.dev/badges/vercel)
+![Render](https://api.silicon.dev/badges/render)
 
-![C++](https://silicon.dev/api/badges/cplusplus)
-![C](https://silicon.dev/api/badges/c)
-![Python](https://silicon.dev/api/badges/python)
-![JavaScript](https://silicon.dev/api/badges/javascript)
-![React](https://silicon.dev/api/badges/react)
-![Node.js](https://silicon.dev/api/badges/nodejs)
-![Express](https://silicon.dev/api/badges/express)
-![MongoDB](https://silicon.dev/api/badges/mongodb)
-![SQL](https://silicon.dev/api/badges/sql)
-![Git](https://silicon.dev/api/badges/git)
-![GitHub](https://silicon.dev/api/badges/github)
-![Postman](https://silicon.dev/api/badges/postman)
-![VS Code](https://silicon.dev/api/badges/vscode)
-![Vercel](https://silicon.dev/api/badges/vercel)
-![Render](https://silicon.dev/api/badges/render)
 
 
 
