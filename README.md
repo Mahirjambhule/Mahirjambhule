@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahir Jambhule
 
-I’m a Computer Engineering student and developer passionate about creating fast, reliable, and user-focused applications. I work mainly with React, Node.js, MongoDB, and modern AI models like Gemini and Llama. I enjoy solving problems and constantly improving my skills.
+I’m a Computer Engineering student passionate about creating fast, reliable, and user-focused applications. I work mainly with React, Node.js, MongoDB, and modern AI models like Gemini and Llama. I enjoy solving problems and constantly improving my skills.
 
 ---
 
