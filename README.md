@@ -12,11 +12,11 @@ I’m a Computer Engineering student passionate about creating fast, reliable, a
 ---
 ## 🔥 Featured Projects
 
-🪐 Orbit AI — Full Stack AI SaaS
+### 🪐 Orbit AI — *Full Stack AI SaaS*
 Building smart, real-time AI chat using:
-- Gemini 2.0 Flash (sub-500ms latency)
-- Node.js/Express (Secure REST API)
-- Scalable MongoDB schema & JWT authentication 
+- **Gemini 2.0 Flash** (sub-500ms latency)
+- **Node.js/Express** (Secure REST API)
+- Scalable **MongoDB** schema & **JWT authentication**
 🔗 GitHub: https://github.com/Mahirjambhule/orbit-ai
 
 ---
