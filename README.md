@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mahir Jambhule
 
-I have worked on projects like an AI productivity app, an e-commerce platform, and a real-time chat application.  
-I also have a strong foundation in Data Structures & Algorithms, OS, DBMS, and Computer Networks.
+I’m a Computer Engineering student and developer passionate about creating fast, reliable, and user-focused applications. I work mainly with React, Node.js, MongoDB, and modern AI models like Gemini and Llama. I enjoy solving problems and constantly improving my skills.
 
 ---
 
