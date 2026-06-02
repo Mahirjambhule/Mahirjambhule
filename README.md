@@ -31,6 +31,13 @@ Engineered a client-side cryptographic storage system ensuring raw data privacy 
 - Multi-Factor Authentication (MFA) relays securely delivering out-of-band OTPs via **Brevo SMTP**.
 🔗 **GitHub:** [mahirjambhule/secure-vault](https://github.com/Mahirjambhule/secure-vault)
 
+### 🌱 InnerLift — *Gamified Productivity App*
+Developed a gamified productivity web application featuring:
+- Custom **48-hour streak decay algorithm** to track daily habit loops.
+- **Google Gemini 2.5 Flash AI** integration to extract structured sentiment metrics from logs.
+- Frontend atomic transaction locking using React references to block duplicate request triggers.
+🔗 **GitHub:** [mahirjambhule/innerlift](https://github.com/Mahirjambhule/innerlift)
+
 ### 🪐 Orbit AI — *Full Stack AI SaaS*
 Building smart, real-time AI chat using:
 - **Gemini 2.0 Flash** (sub-500ms latency)
@@ -44,13 +51,6 @@ Transforming messy notes into actionable task plans using:
 - **HuggingFace BART** (text summarization)
 - Secure **JWT auth** & scalable MERN architecture
 🔗 **GitHub:** [mahirjambhule/taskmind-ai](https://github.com/Mahirjambhule/taskmind-ai)
-
-### 🌱 InnerLift — *Gamified Productivity App*
-Developed a gamified productivity web application featuring:
-- Custom **48-hour streak decay algorithm** to track daily habit loops.
-- **Google Gemini 2.5 Flash AI** integration to extract structured sentiment metrics from logs.
-- Frontend atomic transaction locking using React references to block duplicate request triggers.
-🔗 **GitHub:** [mahirjambhule/innerlift](https://github.com/Mahirjambhule/innerlift)
 
 ### 🛒 ShopVerse — *Full-Stack E-Commerce Platform*
 A production-grade E-Commerce system with:
